@@ -1,0 +1,13 @@
+#74:houzq998axcg487d8ui5f2ygue41omgs1eb5nx74203c2xlo8s69r2mb52tuuexciiuxpdv47gqzc9jnrwv5cmesn631auas4msllrdvb22zazdvgpflpafv7x3834hvazaxgu8nv3tuelt8z2vc7ydu6qym1a503m3ci1dzvgp3ftxt31rytkt1b74dekwwxnrzjvmf368gynjwig0j9q66rjez031fqyhkdv2kziwbmrg35hl4h51gc031exh87n1gelgrkwulwia0dycl05a1bcdc5u89y145i31pngmk7i6tp4k1sjbb62pmlvwe0958n4kt6m2246ro9rvqnw1e1jr3ob2e5kuv1wjyn57i19ei9brp6u3v27dt66141vaewwd9jbsm
+2-6-2:
+  changelog:
+  - 'some text'
+  min-bukkit: 1185
+  max-bukkit: 1185
+  modules:
+    Essentials:
+      url: 'http://ci.earth2me.net/repository/download/bt22/2099:id/Essentials.jar'
+      hash: '6d42ddf0f59df5d083e6da6d8336a31b5f72b2b53c6b805546bc0a1caf586424'
+    EssentialsChat:
+      url: 'http://ci.earth2me.net/repository/download/bt22/2099:id/EssentialsChat.jar'
+      hash: 'a36999d59e98af5a4dbf30602cff5343f53faf5c6f155dd280327d0df22ec03a'
